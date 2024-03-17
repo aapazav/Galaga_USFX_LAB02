@@ -4,6 +4,10 @@ C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFra
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\GALAGA USFX_LAB02\Galaga_USFX\Source\Galaga_USFX\NaveEnemiga.h
+C:\GALAGA USFX_LAB02\Galaga_USFX\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX\NaveEnemiga.generated.h
+C:\GALAGA USFX_LAB02\Galaga_USFX\Source\Galaga_USFX\NaveEnemigaCazador.h
+C:\GALAGA USFX_LAB02\Galaga_USFX\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX\NaveEnemigaCazador.generated.h
 C:\GALAGA USFX_LAB02\Galaga_USFX\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX\Galaga_USFXGameMode.generated.h
 C:\GALAGA USFX_LAB02\Galaga_USFX\Source\Galaga_USFX\Galaga_USFXPawn.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
