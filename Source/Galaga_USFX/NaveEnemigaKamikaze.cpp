@@ -40,3 +40,8 @@ void ANaveEnemigaKamikaze::Mover(float DeltaTime)
 	SetActorLocation(NuevaPosicion);
 
 }
+
+void ANaveEnemigaKamikaze::Destruirse(float dimencion, float tiempo)
+{
+
+}
