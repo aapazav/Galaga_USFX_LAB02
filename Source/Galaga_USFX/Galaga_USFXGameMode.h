@@ -8,12 +8,18 @@
 #include "NaveEnemigaCazador.h"
 #include "NaveEnemigaTransporte.h"
 #include "NaveEnemigaEspia.h"
+#include "NaveEnemigaReabastesimiento.h"
+#include "NaveEnemigaNodriza.h"
+#include "NaveEnemigaKamikaze.h"
 #include "Galaga_USFXGameMode.generated.h"
 
 class ANaveEnemiga;
 class ANaveEnemigaCazador;
 class ANaveEneminoTransporte;
 class ANaveEnemigoEspia;
+class ANaveEnemigaReabastesimiento;
+class ANaveEnemigaNodriza;
+class ANaveEnemigaKamikaze;
 
 UCLASS(MinimalAPI)
 class AGalaga_USFXGameMode : public AGameModeBase
@@ -35,4 +41,11 @@ public:
 	ANaveEnemigaTransporte* NaveEnemigaTransporte02;
 	ANaveEnemigaEspia* NaveEnemigaEspia01;
 	ANaveEnemigaEspia* NaveEnemigaEspia02;
+	ANaveEnemigaReabastesimiento* NaveEnemigaReabastesimiento01;
+	ANaveEnemigaReabastesimiento* NaveEnemigaReabastesimiento02;
+	ANaveEnemigaNodriza* NaveEnemigaNodriza01;
+	ANaveEnemigaNodriza* NaveEnemigaNodriza02;
+	ANaveEnemigaKamikaze* NaveEnemigaKamikaze01;
+	ANaveEnemigaKamikaze* NaveEnemigaKamikaze02;
+
 };

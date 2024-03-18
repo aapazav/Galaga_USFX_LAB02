@@ -12,6 +12,12 @@ C:\GALAGA USFX_LAB02\Galaga_USFX\Source\Galaga_USFX\NaveEnemigaTransporte.h
 C:\GALAGA USFX_LAB02\Galaga_USFX\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX\NaveEnemigaTransporte.generated.h
 C:\GALAGA USFX_LAB02\Galaga_USFX\Source\Galaga_USFX\NaveEnemigaEspia.h
 C:\GALAGA USFX_LAB02\Galaga_USFX\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX\NaveEnemigaEspia.generated.h
+C:\GALAGA USFX_LAB02\Galaga_USFX\Source\Galaga_USFX\NaveEnemigaReabastesimiento.h
+C:\GALAGA USFX_LAB02\Galaga_USFX\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX\NaveEnemigaReabastesimiento.generated.h
+C:\GALAGA USFX_LAB02\Galaga_USFX\Source\Galaga_USFX\NaveEnemigaNodriza.h
+C:\GALAGA USFX_LAB02\Galaga_USFX\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX\NaveEnemigaNodriza.generated.h
+C:\GALAGA USFX_LAB02\Galaga_USFX\Source\Galaga_USFX\NaveEnemigaKamikaze.h
+C:\GALAGA USFX_LAB02\Galaga_USFX\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX\NaveEnemigaKamikaze.generated.h
 C:\GALAGA USFX_LAB02\Galaga_USFX\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX\Galaga_USFXGameMode.generated.h
 C:\GALAGA USFX_LAB02\Galaga_USFX\Source\Galaga_USFX\Galaga_USFXPawn.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
